@@ -12,3 +12,7 @@ test_accuracy = accuracy_score(y_test, test_pred)
 ## Print the scores
 print(f"Training Accuracy: {train_accuracy:.2f}")
 print(f"Test Accuracy: {test_accuracy:.2f}")
+
+## Output
+Training Accuracy: 0.47
+Test Accuracy: 0.45
